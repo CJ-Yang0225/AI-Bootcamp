@@ -1,0 +1,74 @@
+AI Summer BootCamp
+
+地點：中興大學社管大樓 553 教室
+
+
+授課教師: 林冠成
+
+*先修: python、github、jupyter notebook、numpy、pondas、matplotlab、scikit-learn
+
+8/11(二)上午 人工智慧導論
+主題一: 人工智慧的起源和應用
+主題二: 人工智慧、機器學習和資料科學
+1. 結構化資料、非結構化資料
+
+8/11(二)下午 機器學習導論(一)
+主題三: 機器學習原理和模型
+1. 監督式學習、非監督式學習、強化學習
+2. 線性回歸:梯度下降、cost function(loss function)、overfitting、model/algorithm/parameter/hyper-parameter
+3. 羅吉斯回歸(分類)、confuse matrix
+4. K-Means(聚類)
+主題四: 特徵工程
+1. regularization
+
+8/12(三)上午 機器學習導論(二)
+主題五: 決策樹的分類與回歸
+1. Entropy、GINI
+2. CART
+
+8/12(三)下午 機器學習導論(三)
+1. 集成學習
+2. 隨機森林(random forest)
+3. XGBoost ( Extreme Gradient Boosting )
+
+
+授課教師: 張家瑋
+
+*先修: Keras & Tensorflow 2、colab
+
+8/18(二)上午 深度學習(一)
+主題一: 類神經網路學習
+Perceptron/Backpropagation/DNN
+主題二: 卷積神經網路(CNN)/遞歸神經網路(RNN)/對抗生成網路(GAN)介紹
+
+8/18(二)下午: 深度學習(二)
+主題三: LSTM、seq2seq、attention
+主題四: Transformer & BERT模型介紹
+
+8/19(三)上午 深度學習(三) [Keras & Tensorflow 2]
+主題五: 影像實作/EfficientNet Object Dection
+
+8/19(三)下午: 深度學習(四) [Keras & Tensorflow 2]
+主題六-1: 音訊特徵擷取理論
+主題六-2: 聲紋/情緒辨識實作
+
+8/20(四)上午 深度學習(五) [Keras & Tensorflow 2]
+主題七:文字特徵擷取理論/Word2Vec ELMO BERT DistilBERT
+
+8/20(四)下午: 深度學習(六) [Keras & Tensorflow 2]
+主題八: 運用不同Word Embedding方法於文本分類實作
+
+
+授課教師: 英家慶
+8/25(二)上午 PyTorch基礎知識
+8/25(二)下午: 迴歸(PyTorch)
+8/26(三)上午 前饋神經網路(PyTorch)
+8/26(三)下午: 卷積神經網路(PyTorch)
+8/27((四)上午 遞歸神經網路(PyTorch)
+8/27(四)下午: 自編碼模型(PyTorch)
+9/1(二)上午 生成對抗網路(PyTorch)
+9/1(二)下午: Seq2seq自然語言處理(Torch)
+9/2(三)上午 Transfer Learning(PyTorch)
+9/2(三)下午: Tensorflow 2 進階技巧
+9/3(四)上午 Transfer Learning(Tensorflow 2)
+9/3(四)下午: YOLO
